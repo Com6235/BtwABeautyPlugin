@@ -1,0 +1,19 @@
+Messages:
+  Join:
+    - "<blue>[<green>!</green>] <yellow><player> has joined the server!"
+  First-Join:
+    - "<blue>[<green>!</green>] <yellow><player> has joined the server <b>THE FIRST TIME!!!!"
+  Quit:
+    - "<blue>[<red>!</red>] <yellow><player> has left the server!"
+
+Toasts:
+  First-Join:
+    - "<rainbow>Welcome to the server"
+  Join:
+    - "<gradient:light_purple:blue>Welcome back to the server!"
+
+Motd:
+  - 1: "<b><red>JOIN NOW OR GET BAHHD"
+    2: "<b><red>DID YA HEAR DAT?"
+  - 1: "<i>testing phase completed..."
+    2: "<i>starting final phase..."

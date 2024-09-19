@@ -1,0 +1,4 @@
+name: btwABeautyPlugin
+version: '1.0-SNAPSHOT'
+main: io.github.com6235.btwabeautyplugin.BtwABeautyPlugin
+api-version: '1.21'
